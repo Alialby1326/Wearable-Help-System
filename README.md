@@ -1,4 +1,4 @@
-# (This is a first-year engineering project with a group of 5)
+# first-year intro to engineering project with a group of 5
 
 ## Wearable-Help-System Summary
 Portable device that sounds a buzzer after a loud voice input or button press from the user. 
